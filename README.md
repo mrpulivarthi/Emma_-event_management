@@ -3,3 +3,5 @@ This project is a assignment of my coventry school, where I develop a event mana
 
 #To generate a fake csv data for training the model
 I have used python's faker library to generate 100 rows of fake event data to work with and train my model. 
+
+# Created database and tables for data management using MYSQL. 
